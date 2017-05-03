@@ -1,0 +1,19 @@
+{
+  "type": "object",
+  "properties": {
+    "interlaced": {
+      "type": "boolean"
+    },
+    "optimizationLevel": {
+      "type": "number",
+      "minimum": 1,
+      "maximum": 3
+    },
+    "colors": {
+      "type": "number",
+      "minimum": 2,
+      "maximum": 256
+    }
+  },
+  "additionalProperties": false
+}

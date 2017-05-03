@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "properties": {
+    "progressive": {
+      "type": "boolean"
+    },
+    "arithmetic": {
+      "type": "boolean"
+    }
+  },
+  "additionalProperties": false
+}

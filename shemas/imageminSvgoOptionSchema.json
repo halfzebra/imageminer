@@ -1,0 +1,138 @@
+{
+  "type": "object",
+  "properties": {
+    "cleanupAttrs": {
+      "type": "boolean"
+    },
+    "removeDoctype": {
+      "type": "boolean"
+    },
+    "removeXMLProcInst": {
+      "type": "boolean"
+    },
+    "removeComments": {
+      "type": "boolean"
+    },
+    "removeMetadata": {
+      "type": "boolean"
+    },
+    "removeTitle": {
+      "type": "boolean"
+    },
+    "removeDesc": {
+      "type": "boolean"
+    },
+    "removeUselessDefs": {
+      "type": "boolean"
+    },
+    "removeXMLNS": {
+      "type": "boolean"
+    },
+    "removeEditorsNSData": {
+      "type": "boolean"
+    },
+    "removeEmptyAttrs": {
+      "type": "boolean"
+    },
+    "removeHiddenElems": {
+      "type": "boolean"
+    },
+    "removeEmptyText": {
+      "type": "boolean"
+    },
+    "removeEmptyContainers": {
+      "type": "boolean"
+    },
+    "removeViewBox": {
+      "type": "boolean"
+    },
+    "cleanupEnableBackground": {
+      "type": "boolean"
+    },
+    "minifyStyles": {
+      "type": "boolean"
+    },
+    "CSSO": {
+      "type": "boolean"
+    },
+    "convertStyleToAttrs": {
+      "type": "boolean"
+    },
+    "convertColors": {
+      "type": "boolean"
+    },
+    "convertPathData": {
+      "type": "boolean"
+    },
+    "convertTransform": {
+      "type": "boolean"
+    },
+    "removeUnknownsAndDefaults": {
+      "type": "boolean"
+    },
+    "removeNonInheritableGroupAttrs": {
+      "type": "boolean"
+    },
+    "removeUselessStrokeAndFill": {
+      "type": "boolean"
+    },
+    "removeUnusedNS": {
+      "type": "boolean"
+    },
+    "cleanupIDs": {
+      "type": "boolean"
+    },
+    "cleanupNumericValues": {
+      "type": "boolean"
+    },
+    "cleanupListOfValues": {
+      "type": "boolean"
+    },
+    "moveElemsAttrsToGroup": {
+      "type": "boolean"
+    },
+    "moveGroupAttrsToElems": {
+      "type": "boolean"
+    },
+    "collapseGroups": {
+      "type": "boolean"
+    },
+    "removeRasterImages": {
+      "type": "boolean"
+    },
+    "mergePaths": {
+      "type": "boolean"
+    },
+    "convertShapeToPath": {
+      "type": "boolean"
+    },
+    "sortAttrs": {
+      "type": "boolean"
+    },
+    "transformsWithOnePath": {
+      "type": "boolean"
+    },
+    "removeDimensions": {
+      "type": "boolean"
+    },
+    "removeAttrs": {
+      "type": "boolean"
+    },
+    "removeElementsByAttr": {
+      "type": "boolean"
+    },
+    "addClassesToSVGElement": {
+      "type": "boolean"
+    },
+    "addAttributesToSVGElement": {
+      "type": "boolean"
+    },
+    "removeStyleElement": {
+      "type": "boolean"
+    },
+    "removeScriptElement": {
+      "type": "boolean"
+    }
+  },
+  "additionalProperties": false
+}
